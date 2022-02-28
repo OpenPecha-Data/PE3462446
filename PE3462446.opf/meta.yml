@@ -1,0 +1,20 @@
+id: PE3462446
+initial_creation_type: input
+source_metadata:
+  title: Gyalse Shenpen Thaye Series
+  language: pt
+  description: 'Texts by the great monk-scholar Gyalse Shenpen Thaye (rgyal sras gzhan
+    phan mtha'' yas, 1800–1855):'
+  volume:
+    1443b94fecdb4777b19c3988ef935951:
+      title: Brief Analysis of the Five Aggregates
+      parent: Abhidharma
+    eb25fa633910443db422b10a10d1b2b2:
+      title: Brief Sukhāvatī Aspiration
+      parent: Aspiration Prayers
+    62af4d171e7c47b68cd2661938e94dee:
+      title: The Gentle Rain of Benefit and Joy - An Explanation of the Practice of
+        Sang Offering
+      parent: Commentaries
+created_at: '2022-02-28T23:27:48.670834'
+last_modified_at: '2022-02-28T23:27:48.670836'
